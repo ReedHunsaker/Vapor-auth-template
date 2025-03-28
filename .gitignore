@@ -1,0 +1,8 @@
+.env
+.build
+.swiftpm
+.vscode
+.DS_Store
+.env.*
+jwt-key
+*.pub
